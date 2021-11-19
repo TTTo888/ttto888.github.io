@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nghia Hoang"
+title                    : "Tuyen To"
 title_separator          : "-"
-name                     : &name "Nghia Hoang"
+name                     : &name "Tuyen To"
 description              : &description "personal description"
-url                      : https://htnghia87.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ttto888.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "htnghia87/htnghia87.github.io"
+repository               : "ttto888/ttto888.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nghia Hoang"
-  avatar           : "nghia-profile.jpg"
-  bio              : "Senior Research Scientist"
-  location         : "Cambridge, Massachusetts"
-  employer         : "AWS AI Labs, Amazon"
+  name             : "Tuyen To"
+  avatar           : "jasmine-profile.jpg"
+  bio              : "Master of Data Science, Monash University"
+  location         : "Santa Clara, California"
+  employer         :  #"AWS AI Labs, Amazon"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en"
-  email            : hoangtrongnghia87@gmail.com
+  googlescholar    :  #"https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en"
+  email            : jasmineto205@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "htnghia87"
+  github           : "ttto888"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nghia-hoang-52a028102/"
+  linkedin         : "jasmine-to-65384089"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
